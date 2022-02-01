@@ -1,5 +1,5 @@
 ****
-**THESE DOCS ARE NOW LEGACY. PLEASE USE [DOCS.HELIUM.COM](https://:docs.helium.com) AND [GITHUB.COM/HELIUM/DOCS](https://github.com/helium/docs)**
+**THESE DOCS ARE NOW LEGACY. PLEASE USE [DOCS.HELIUM.COM](https://docs.helium.com) AND [GITHUB.COM/HELIUM/DOCS](https://github.com/helium/docs)**
 
 ---
 description: The home for all Helium Network Documentation
